@@ -28,5 +28,8 @@ line-height: 20px
     font-size: 30px;
     color: #FFFFFF;
     text-align: justify;
-    padding: 30px 20px 30px 20px;
+    padding: 30px 40px 30px 40px;
+}
+.paragrafo-localização {
+    padding: 10px 40px 10px 40px;
 }
