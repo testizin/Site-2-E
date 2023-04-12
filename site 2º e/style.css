@@ -3,13 +3,12 @@ body {
 }
 header {
     padding: 20px;
+    color: #D8D7D7;
+    font-size: 25%;
+    justify-content: space-around;
 }
 .letras-maiores {
 color: #28DAE5;
-display: flex;
+font-size: 50%;
 }
 
-.titulo-ano {
-    color: #D8D7D7;
-    display: flex;
-}
