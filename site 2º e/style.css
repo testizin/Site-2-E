@@ -5,7 +5,7 @@ header {
     padding: 20px 0px 0px 0px;
     line-height: 20px;
     color: #D8D7D7;
-    font-size: 45px;
+    font-size: 40px;
     justify-content: baseline;
     font-family: 'Roboto Mono', monospace;
 justify-content: center;
@@ -23,3 +23,9 @@ line-height: 20px
 
 }
 
+.escola {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: justify;
+}
