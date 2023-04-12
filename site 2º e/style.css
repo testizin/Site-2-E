@@ -4,11 +4,11 @@ body {
 header {
     padding: 20px;
     color: #D8D7D7;
-    font-size: 25%;
+    font-size: 50px;
     justify-content: space-around;
 }
 .letras-maiores {
 color: #28DAE5;
-font-size: 50%;
+font-size: 80px;
 }
 
