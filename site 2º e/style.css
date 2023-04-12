@@ -3,6 +3,7 @@ body {
 }
 header {
     padding: 20px;
+    line-height: 15px;
     color: #D8D7D7;
     font-size: 50px;
     justify-content: baseline;
@@ -17,6 +18,7 @@ font-size: 60px;
 font-family: 'Alkatra', cursive;
 font-family: 'Josefin Sans', sans-serif;
 justify-content: center;
+line-height: 15px
 
 }
 
