@@ -1,0 +1,164 @@
+body {
+    background-color: #393838;
+}
+header {
+    margin: 0;
+    line-height: 20px;
+    color: #D8D7D7;
+    font-size: 30px;
+    justify-content: baseline;
+    font-family: 'Roboto Mono', monospace;
+justify-content: center;
+text-align: center;
+}
+.imagem-cerebro {
+    width: 150px;
+    
+}
+
+.letras-maiores {
+color: #28DAE5;
+text-align: center;
+text-shadow: 0px 0px 7px #28DAE5;
+font-size: 40px;
+font-family: 'Alkatra', cursive;
+font-family: 'Josefin Sans', sans-serif;
+justify-content: center;
+line-height: 20px
+}
+
+.escola {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-align: justify;
+    padding: 30px 60px 30px 60px;
+}
+.paragrafo-localização {
+    padding: 10px 70px 10px 70px;
+    font-family: 'Open Sans', sans-serif;
+}
+.paragrafo-estrutura {
+    padding: 10px 70px 10px 70px;
+    font-family: 'Open Sans', sans-serif;
+}
+.paragrafo-cursos {
+    padding: 10px 70px 10px 70px;
+    font-family: 'Open Sans', sans-serif;
+}
+.titulo-colégio {
+    margin: 0;
+    color: white;
+    text-shadow: 0px 0px 7px #FFFFFF;
+    padding: 0px 70px 0px 70px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.estudantes {
+    margin: 0;
+    color: white;
+    text-shadow: 0px 0px 7px #FFFFFF;
+    padding: 70px 50px ;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center; 
+}
+
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+}
+
+.ALUNO-1 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-1 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO1 {
+    padding: 0px;
+    align-items: center;  
+}
+
+.ALUNO-2 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-2 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO2 {
+    padding: 0px;
+    align-items: center;  
+}
+
+.ALUNO-3 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-3 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO3 {
+    padding: 0px;
+    align-items: center;  
+}
+
+.ALUNO-4 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-4 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO4 {
+    padding: 0px;
+    align-items: center;  
+}
+
+.ALUNO-5 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-5 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO5 {
+    padding: 0px;
+    align-items: center;  
+}
