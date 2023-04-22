@@ -2,33 +2,44 @@ body {
     background-color: #393838;
 }
 header {
-    padding: 20px 0px 0px 0px;
+    margin: 0;
     line-height: 20px;
     color: #D8D7D7;
-    font-size: 40px;
+    font-size: 30px;
     justify-content: baseline;
     font-family: 'Roboto Mono', monospace;
 justify-content: center;
 text-align: center;
 }
+.imagem-cerebro {
+    width: 150px;
+    padding: 20px 0 40px 0;
+    
+}
+
 .letras-maiores {
 color: #28DAE5;
 text-align: center;
 text-shadow: 0px 0px 7px #28DAE5;
-font-size: 50px;
+font-size: 40px;
 font-family: 'Alkatra', cursive;
 font-family: 'Josefin Sans', sans-serif;
 justify-content: center;
-line-height: 20px
-
+line-height: 20px;
+padding: 20px 0 40px 0;
 }
-
+.título-ano {
+    padding: 20px 0 40px 0;
+}
+.titulo-colégio {
+    padding: 20px 0 40px 0;
+}
 .escola {
     font-family: 'Open Sans', sans-serif;
     font-size: 25px;
     color: #FFFFFF;
     text-align: justify;
-    padding: 30px 60px 30px 60px;
+    padding: 40px 60px 40px 40px;
 }
 .paragrafo-localização {
     padding: 10px 70px 10px 70px;
@@ -43,9 +54,142 @@ line-height: 20px
     font-family: 'Open Sans', sans-serif;
 }
 .titulo-colégio {
-    padding: 10px 70px 10px 70px;
+    margin: 0;
+    color: white;
+    text-shadow: 0px 0px 7px #FFFFFF;
+    padding: 0px 70px 0px 70px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
     font-size: 40px;
     text-align: center;
+}
+.turma {
+    padding: 20px 0 60px 0;
+}
+.estudantes {
+    margin: 0;
+    color: white;
+    text-shadow: 0px 0px 7px #FFFFFF;
+    padding: 70px 50px ;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center; 
+}
+
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+}
+
+.ALUNO-1 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-1 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO1 {
+    padding: 0px;
+    align-items: center;  
+}
+
+.ALUNO-2 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-2 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO2 {
+    padding: 0px;
+    align-items: center;  
+}
+
+.ALUNO-3 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-3 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO3 {
+    padding: 0px;
+    align-items: center;  
+}
+
+.ALUNO-4 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-4 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO4 {
+    padding: 0px;
+    align-items: center;  
+}
+
+.ALUNO-5 {
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.foto-estudante-5 {
+    padding: 0px;
+    align-items: center;
+    width: 120px;
+    padding: 0px;
+}
+.ALUNO5 {
+    padding: 0px;
+    align-items: center;  
+}
+.rodapé {
+    background-color: white;
+    margin:0;
+    padding: 0;
+    align-items: center;
+}
+.logo {
+    height: 50%;
+    align-items: center;
+    text-align: center;
+    padding: 20px 0 10px 0;
+}
+.logo-ceravolo {
+    height: 50%;
+    width: 20%;
+    opacity: 60%;
+}
+* {
+    margin: 0;
+    padding: 0;
 }
